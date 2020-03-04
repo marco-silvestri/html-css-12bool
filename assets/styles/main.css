@@ -11,26 +11,20 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-[class^="col-"] {
-  border: 1px solid #black;
-}
+/*Columns colors*/
 
 [data-color="red"]{
-  background-color: red;
+  background-color: #fc5656;
 }
 
 [data-color="yellow"]{
-  background-color: yellow;
+  background-color: #fcf481;
 }
 
 [data-color="blue"]{
-  background-color: blue;
+  background-color: #52a0ff;
 }
 
-[data-color="black"]{
-  background-color: black;
-}
-
-[data-color="white"]{
-  background-color: white;
+[data-color="grey"]{
+  background-color: #b5b5b5;
 }
