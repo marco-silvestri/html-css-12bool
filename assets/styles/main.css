@@ -1,0 +1,36 @@
+/*Reset*/
+
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+[class^="col-"] {
+  border: 1px solid #black;
+}
+
+[data-color="red"]{
+  background-color: red;
+}
+
+[data-color="yellow"]{
+  background-color: yellow;
+}
+
+[data-color="blue"]{
+  background-color: blue;
+}
+
+[data-color="black"]{
+  background-color: black;
+}
+
+[data-color="white"]{
+  background-color: white;
+}
