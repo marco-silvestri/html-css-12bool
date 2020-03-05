@@ -16,7 +16,7 @@
 
 [class^="col-"] {
   float: left;
-  padding: 16px;
+  padding: 1em;
 }
 
 [class^="col-"].p-0 {
